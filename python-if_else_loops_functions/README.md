@@ -32,3 +32,6 @@ Affiche le dernier chiffre d'un nombre.
 
 ### `10-add.py`
 Additionne les 2 valeurs donner.
+
+### `11-pow.py`
+Retourne la puissance de a par b.
