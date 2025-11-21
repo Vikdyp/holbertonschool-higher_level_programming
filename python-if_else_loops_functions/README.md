@@ -35,3 +35,6 @@ Additionne les 2 valeurs donner.
 
 ### `11-pow.py`
 Retourne la puissance de a par b.
+
+### `12-fizzbuzz.py`
+Affiche Fizz si le nombre est multiple de 3, Buzz si il est multiple de 5 et FizzBuzz si il est multiple de 3 et 5.
