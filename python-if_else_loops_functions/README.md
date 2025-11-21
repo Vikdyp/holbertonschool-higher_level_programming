@@ -2,3 +2,9 @@
 
 ### 0-positive_or_negative.py
 Affiche un nombre entre -10 et 10 et dit si il est positif negatiif ou egale a 0.
+
+### 1-last_digit.py
+Affiche le nombre generer et le dernier chiffre du nombre avec sont signe puis indique si il est plus grand que 5 si il est egale a 0 ou si il est plus petit que 6 mais pas egale a 0.
+
+### 2-print_alphabet.py
+Affiche l'alphabet en minuscule en une chaine de caractere en utilisant ASCII.
