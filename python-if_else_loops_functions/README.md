@@ -14,3 +14,6 @@ Affiche l'alphabet en minuscule sans le e ni le q.
 
 ### `4-print_hexa.py`
 Affiche les nombres de 0 a 98 avec leur version hexadecimal, exemple: 18 = 0x12.
+
+### `5-print_comb2`
+Affiche les nombres de 0 a 99 separer par des vigule et espace en format 00, 01 etc.
