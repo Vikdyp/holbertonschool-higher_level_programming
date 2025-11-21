@@ -26,3 +26,6 @@ Indique retourn True si le caractere est une minuscule sinon retourne False.
 
 ### `8-uppercase.py`
 Passe en majuscule la chaine de carractere donner.
+
+### `9-print_last_digit.py`
+Affiche le dernier chiffre d'un nombre.
