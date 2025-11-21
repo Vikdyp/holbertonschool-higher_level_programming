@@ -23,3 +23,6 @@ Affiche toutes combinaisons de deux chiffres possible entre 0 et 99 dans l'ordre
 
 ### `7-islower.py`
 Indique retourn True si le caractere est une minuscule sinon retourne False.
+
+### `8-uppercase.py`
+Passe en majuscule la chaine de carractere donner.
