@@ -11,3 +11,6 @@ Affiche l'alphabet en minuscule en une chaine de caractere en utilisant ASCII.
 
 ### `3-print_alphabt.py`
 Affiche l'alphabet en minuscule sans le e ni le q.
+
+### `4-print_hexa.py`
+Affiche les nombres de 0 a 98 avec leur version hexadecimal, exemple: 18 = 0x12.
