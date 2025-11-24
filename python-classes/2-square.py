@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+"""module qui definit la classe Square"""
+
+
 class Square:
     """class qui defini un carre"""
 
