@@ -26,7 +26,3 @@ class Square:
         if value < 0:
             raise ValueError("size must be >= 0")
         self.__size = value
-
-
-p = Square(4)
-print(p.size)
