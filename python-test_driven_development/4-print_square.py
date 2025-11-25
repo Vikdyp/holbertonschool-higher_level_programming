@@ -1,0 +1,17 @@
+#!/usr/bin/python3
+"""Module that provide a function to print a square with #"""
+
+
+def print_square(size):
+    """function that print a square with #"""
+
+    if not isinstance(size, int):
+        raise TypeError("size must be an integer")
+    if size < 0:
+        raise ValueError("size must be >= 0")
+    if size == 0:
+        print("")
+        return
+
+    for i in range(size):
+        print("#" * size)
