@@ -50,7 +50,25 @@ class SinglyLinkedList:
 
         self.__head = None
 
+    def __str__(self):
+        """fonction qui retourne les valeurs des nodes sous forme de text"""
+
+        current = self.__head
+        value = []
+
+        if self.__head is None:
+            return ""
+
+        while current is not None:
+            value.append(str(current.data))
+            current = current.next_node
+
+        text = "\n".join(value)
+
+        return text
+
     def sorted_insert(self, value):
+        """fonction qui permet d'ajouter une nouvelle valeur dans la liste"""
 
         new_node = Node(value)
 
