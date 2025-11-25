@@ -1,17 +1,17 @@
 >>> text_indentation = __import__('5-text_indentation').text_indentation
 
 >>> text_indentation("Bonjour, je m'appel Victor et j'aime: des truc. "
-                 "Mais c'est pas tout")
+...                 "Mais c'est pas tout")
 Bonjour, je m'appel Victor et j'aime:
-
+<BLANKLINE>
 des truc.
-
+<BLANKLINE>
 Mais c'est pas tout
 
 >>> text_indentation(4)
-Traceback (most recent last call):
+Traceback (most recent call last):
 TypeError: text must be a string
 
 >>> text_indentation()
-Traceback (most recent last call):
+Traceback (most recent call last):
 TypeError: text_indentation() missing 1 required positional argument: 'text'
