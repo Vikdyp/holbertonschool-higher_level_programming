@@ -1,7 +1,7 @@
 -- Task: Cree une table second_table
 
 -- Cree la table
-CREATE TABLE IF NOT EXISTE second_table(
+CREATE TABLE IF NOT EXISTS second_table(
 	id INT,
 	name VARCHAR(256),
 	score INT
